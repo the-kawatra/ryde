@@ -5,7 +5,7 @@ import { router } from "expo-router";
 import Swiper from "react-native-swiper";
 
 // project imports
-import CustomButton from "@/components/CustomButton";
+import { CustomButton } from "@/components";
 import { onboarding } from "@/constants";
 
 const Onboarding = () => {
